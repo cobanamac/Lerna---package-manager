@@ -1,0 +1,26 @@
+{
+  "name": "cobanamac-avatar",
+  "version": "0.0.0",
+  "description": "lerna",
+  "author": "René Leonard Aasen <reneleonardaasen@gmail.com>",
+  "homepage": "https://github.com/cobanamac/Lerna---package-manager#readme",
+  "license": "ISC",
+  "main": "lib/cobanamac-avatar.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobanamac/Lerna---package-manager.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/cobanamac/Lerna---package-manager/issues"
+  }
+}
