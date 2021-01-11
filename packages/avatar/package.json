@@ -1,5 +1,5 @@
 {
-  "name": "@consent/avatar",
+  "name": "cobanamac-avatar",
   "version": "1.0.1-alpha.0",
   "description": "avatar",
   "author": "René Leonard Aasen <reneleonardaasen@gmail.com>",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/cobanamac/Lerna---package-manager/issues"
-  }
+  },
+  "gitHead": "1fea28bfb04d699c81ffdfdb547343cb3287912d"
 }
