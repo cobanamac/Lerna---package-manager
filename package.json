@@ -5,6 +5,7 @@
     "lerna": "^3.22.1"
   },
   "script": {
-    "test": "echo jesus"
+    "test": "echo jesus",
+    "avatar": "echo"
   }
 }
