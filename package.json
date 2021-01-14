@@ -5,6 +5,7 @@
     "lerna": "^3.22.1"
   },
   "script": {
-    "test": "lerna run test --scope=@cobanamac-avatar"
+    "joo": "echo jesus",
+    "cobanamac-avatar": "echo --scope=@cobanamac-avatar"
   }
 }
