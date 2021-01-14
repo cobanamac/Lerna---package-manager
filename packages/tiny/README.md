@@ -2,10 +2,14 @@
 
 > TODO: description
 
-## Usage
+## Installation
 
 ```
-const tiny = require('@cobanamac/tiny');
+import { shadowizard } from "shadowizard
 
-// TODO: DEMONSTRATE API
+shadowizard({
+  shadow_type: soft;
+  padding:false
+})
+
 ```
